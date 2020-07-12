@@ -1,0 +1,44 @@
+.body{
+  background-image:cover;
+}
+.roundedCircleContainer{
+width: 300px;
+height: 300px;
+background-color: black;
+margin: 0 auto;
+margin-top: 20px;
+border: 2px solid black;
+border-radius: 200px;
+
+}
+/* .marathonContainer{
+   
+} */
+.headingStyling{
+  color:rgb(92, 240, 47);  
+}
+.headingStylingM{
+    color:rgb(92, 240, 47);
+    display: inline-block; 
+    padding-top: 50px;
+padding-left: 55px;
+}
+.ContainingBlock{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.buttonContainer{
+    display: flex;
+    justify-content: space-around;
+}
+.btnContainer{
+    border-radius: 40px;
+    height: 60px;
+    width: 60px;
+    background-color:rgb(92, 240, 47); 
+    color: black;
+    border: none;
+    outline-style: none;
+    cursor: pointer;
+}
